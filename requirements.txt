@@ -1,0 +1,7 @@
+pandas>=1.5.0
+plotly>=5.0.0
+matplotlib>=3.5.0
+sqlalchemy>=1.4.0
+db-dtypes==1.4.3
+jupyter
+ipython-sql  # 如果用 SQL 魔法
